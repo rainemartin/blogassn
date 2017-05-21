@@ -1,0 +1,127 @@
+
+
+.customContainer
+{
+	margin-top: 1em;
+}
+
+.customProfileContainer
+{
+	background-color: gray;
+}
+
+.customProfileContainer a
+{
+	color: white;
+	text-decoration: none;
+}
+
+.blogContainer
+{
+	background-color: gray;
+	padding: 1em;
+	margin: .25em;
+	width: 50em;
+}
+
+.pageContainer
+{
+	background-color: lightgray;
+	width: 70em;
+	text-align: center;
+	padding: 0.25em;
+	margin: 0.5em;
+}
+
+.customCard
+{
+	background-color: gray;
+	margin: 1em;
+}
+
+.customHead
+{
+	background-color: gray;
+	text-align: center;
+	margin: 0.25em;
+}
+
+.profileStyles
+{
+	text-align: center;
+	background-color: gray;
+	margin: 0.25em;
+}
+
+.avatarStyles
+{
+	text-align: center;
+	float: right;
+	margin: 0.5em;
+}
+
+.formCenter
+{
+	margin: auto;
+	width: 25em;
+	background-color: gray;
+	padding: 3em;
+}
+
+.titleForm
+{
+	width: 80%;
+	margin: auto;
+}
+
+.customBtn
+{
+	background-color: teal;
+	color: black;
+	font-size: large;
+	width: 12em;
+	margin: 0.5em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.customBtn a:hover
+{
+	color: white;
+}
+
+.rightForm
+{
+	text-align: right;
+}
+
+.leftForm
+{
+	text-align: left;
+}
+
+.customLabel
+{
+	width: 8em;
+	background-color: lightgray;
+	padding: .25em;
+	margin: auto;
+}
+
+.largeText
+{
+	margin: auto;
+	width: 80%;
+	height: 25em;
+}
+
+.customTable
+{
+	background-color: gray;
+	margin-top: 1.5em;
+}
+
+.customTable tbody tr
+{
+	background-color: lightgray;
+}
